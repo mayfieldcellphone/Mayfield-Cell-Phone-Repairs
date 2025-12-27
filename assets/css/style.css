@@ -1,0 +1,17 @@
+/* Custom styles for Mayfield Cell Phone Repairs */
+
+body {
+    font-family: Arial, sans-serif;
+}
+
+.hero {
+    background-color: #f8f9fa;
+}
+
+.card {
+    margin-bottom: 1rem;
+}
+
+footer a {
+    text-decoration: none;
+}
